@@ -1,0 +1,29 @@
+{
+  "name": "construction",
+  "version": "0.0.0",
+  "description": "Supply an estimate for the construction of a house",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperArtie/construction"
+  },
+  "author": "Nathan Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperArtie/construction/issues"
+  },
+  "homepage": "https://github.com/SuperArtie/construction",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
